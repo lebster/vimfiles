@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='C:/projects/Misc/Prioritize/Prioritize.Angular.Web/src/app/project'
+let g:netrw_dirhist_2='C:/projects/Misc/Prioritize/Prioritize.Angular.Web/src/app'
+let g:netrw_dirhist_3='C:/projects/Misc/Prioritize/Prioritize.Angular.Web/src/app/account'
+let g:netrw_dirhist_4='//orion/www.directmailman.com'
+let g:netrw_dirhist_5='//orion/www.directmailman.com/Includes'
