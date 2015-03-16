@@ -1,4 +1,9 @@
-set guifont=Consolas:h11:cDEFAULT
+"set guifont=Consolas:h11:cDEFAULT
+"set guifont=Liberation_Mono_for_Powerline:h10 
+"set encoding=utf-8
+set encoding=utf-8
+set guifont=Inconsolata\ for\ Powerline:h12
+set t_Co=256
 set guioptions-=m
 set guioptions-=T
 set guioptions-=r
@@ -25,10 +30,15 @@ set omnifunc=syntaxcomplete#Complete
 "pathogen addon
 execute pathogen#infect()
 
+set laststatus=2
+let g:airline_powerline_fonts = 1
+
 syntax enable
 set background=dark
 colorscheme solarized
 
+"gitgutter
+highlight clear SignColumn
 
 let g:syntastic_javascript_checkers = ['jshint']
 
