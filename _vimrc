@@ -16,6 +16,7 @@ set expandtab
 
 set hlsearch
 :nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
+:nnoremap <leader>l :ls<CR>:b<space>
 
 set ignorecase
 set smartcase
