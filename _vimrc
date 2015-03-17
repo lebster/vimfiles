@@ -1,3 +1,6 @@
+"if problems try running :Helptags
+"
+"
 "set guifont=Consolas:h11:cDEFAULT
 "set guifont=Liberation_Mono_for_Powerline:h10 
 "set encoding=utf-8
