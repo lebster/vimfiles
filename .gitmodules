@@ -28,3 +28,6 @@
 [submodule "vimfiles/bundle/neocomplete.vim"]
 	path = vimfiles/bundle/neocomplete.vim
 	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "vimfiles/bundle/vim-grepper"]
+	path = vimfiles/bundle/vim-grepper
+	url = https://github.com/mhinz/vim-grepper.git
